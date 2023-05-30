@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://linjunsilu.github.io</id>
+    <title>林君思🦌</title>
+    <updated>2023-05-30T00:12:49.972Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://linjunsilu.github.io"/>
+    <link rel="self" href="https://linjunsilu.github.io/atom.xml"/>
+    <subtitle>今天学的要记得记录哟
+（所有记录仅作为学习记录，不作为商业用途）</subtitle>
+    <logo>https://linjunsilu.github.io/images/avatar.png</logo>
+    <icon>https://linjunsilu.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 林君思🦌</rights>
+    <entry>
+        <title type="html"><![CDATA[机器学习]]></title>
+        <id>https://linjunsilu.github.io/post/ji-qi-xue-xi/</id>
+        <link href="https://linjunsilu.github.io/post/ji-qi-xue-xi/">
+        </link>
+        <updated>2023-05-29T22:57:56.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>数学基础</strong>：学习线性代数、概率统计和微积分等数学知识，这是机器学习的数学基础。</p>
+<p><strong>编程语言</strong>：选择一门好的编程语言，如Python、R等，并掌握基本的编程概念和技巧，为后续的机器学习算法的编写打下基础。</p>
+<p><strong>机器学习基础</strong>：掌握机器学习的基本概念，如监督学习、非监督学习、半监督学习、强化学习、回归、分类、聚类等等，并了解不同算法的优势与局限性。</p>
+<p><strong>框架和工具</strong>：深入掌握机器学习的相关工具和框架，例如 TensorFlow、Keras、PyTorch 等，以及常用的数据分析和可视化工具。</p>
+<p><strong>实战经验</strong>：通过实际问题和数据集练习应用机器学习算法，熟悉数据处理和特征工程等基本操作。</p>
+<p><strong>持续学习</strong>：跟进最新的研究和技术进展，深入理解算法原理，扩展应用场景和项目。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爬虫学习路线]]></title>
+        <id>https://linjunsilu.github.io/post/pa-chong-xue-xi-lu-xian/</id>
+        <link href="https://linjunsilu.github.io/post/pa-chong-xue-xi-lu-xian/">
+        </link>
+        <updated>2023-05-29T22:52:16.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<ol>
+<li>
+<p>了解 HTTP 协议。爬虫就是通过 HTTP 协议请求数据并解析数据，所以HTTP协议是非常重要的。</p>
+</li>
+<li>
+<p>学习 HTML、CSS、JavaScript 等前端技能。这些技能可以让你更好地理解网页的结构和元素，并且知道如何处理网页中的内容。</p>
+</li>
+<li>
+<p>熟悉至少一种编程语言，如Python、Java、R等。Python 是目前最流行的爬虫语言，有很多开源库可供使用。</p>
+</li>
+<li>
+<p>学习正则表达式。在爬虫过程中，正则表达式可以帮助你快速、准确地匹配特定的字符串。</p>
+</li>
+<li>
+<p>了解 XPath 和 CSS Selector。XPath 和 CSS Selector 是解析 HTML 网页的两种常用方法，掌握它们可以更便捷地获取所需的数据。</p>
+</li>
+<li>
+<p>熟悉广泛使用的网络爬虫框架，如 scrapy、beautifulsoup、selenium 等。</p>
+</li>
+<li>
+<p>了解反爬虫机制和避免被封IP的基本技巧。</p>
+</li>
+<li>
+<p>不断练习，不断完善技能，实践和持续学习才是提升爬虫能力的最好方法。</p>
+</li>
+</ol>
+<p>值得注意的是，在进行爬取数据的时候，请确保自己遵循法律法规和网站的爬虫规则，遵守网络道德和常识。</p>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[动态网页抓取——不会的点]]></title>
+        <id>https://linjunsilu.github.io/post/dong-tai-wang-ye-zhua-qu-bu-hui-de-dian/</id>
+        <link href="https://linjunsilu.github.io/post/dong-tai-wang-ye-zhua-qu-bu-hui-de-dian/">
+        </link>
+        <updated>2023-05-29T08:11:26.000Z</updated>
+        <content type="html"><![CDATA[<p>当你在浏览器中访问一个网页时，如果你按下F12键，就能打开浏览器的开发者工具。在开发者工具中，有一个“Network”选项卡，点击它就能查看网络请求信息。当你刷新网页时，网络请求信息就会被记录下来。在“Network”中，你可以看到所有与该网页有关的请求信息，包括脚本、图片和API等等。在这些请求信息中，你可以找到评论数据的请求信息，并点击该请求信息，在右侧的“Headers”选项卡中有一项“Request URL”，这个URL地址就是评论数据的真实地址。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python网络爬虫——入门引导]]></title>
+        <id>https://linjunsilu.github.io/post/python-wang-luo-pa-chong-ru-men-yin-dao/</id>
+        <link href="https://linjunsilu.github.io/post/python-wang-luo-pa-chong-ru-men-yin-dao/">
+        </link>
+        <updated>2023-05-25T23:46:30.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="robots协议">Robots协议</h2>
+<p>Robots协议也称为爬虫协议或者机器人协议，是一种用于指导网络爬虫或者搜索引擎爬行网站内容的协议。该协议通常存储在网站的根目录下的robots.txt文件中。</p>
+<p>Robots协议包含了一系列指令，用于告知网络爬虫哪些页面可以被访问，哪些页面不能被访问。这些指令包括：</p>
+<p>User-agent：表示搜索引擎的名字，Web站点指定不同的搜索引擎，或所有的搜索引擎。</p>
+<p>Disallow：表示以下列出的 URL 不允许搜索引擎访问。</p>
+<p>Allow：表示只有以下列出的 URL 允许搜索引擎访问。</p>
+<p>Robots协议的目的是保护网站的内容和隐私，并让网站管理者可以有选择地让搜索引擎抓取和索引他们的网站内容。</p>
+<h2 id="python爬虫的流程">Python爬虫的流程</h2>
+<ol>
+<li>获取网页</li>
+<li>解析网页（提取数据）</li>
+<li>存储数据</li>
+</ol>
+<h2 id="三个流程的技术实现">三个流程的技术实现</h2>
+<p><strong>1.获取网页</strong><br>
+获取网页的基础技术:requests、urllib和selenium。<br>
+获取网页的进阶技术：多进程多线程抓取、登录抓 取、突破IP封禁(9)和使用服务器抓取。<br>
+**2.解析网页 **<br>
+解析网页的基础技术:re正则表达式、BeautifulSoup 和lxml。 解析网页的进阶技术：解决中文乱码。<br>
+<strong>3.存储数据</strong><br>
+存储数据的基础技术：存入txt文件和存入csv文件 。<br>
+存储数据的进阶技术：存入MySQL数据库和 MongoDB数据库。 Scrapy爬虫框架，分布式爬虫。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[属于python新添了一点东西]]></title>
+        <id>https://linjunsilu.github.io/post/shu-yu-python-xin-tian-liao-yi-dian-dong-xi/</id>
+        <link href="https://linjunsilu.github.io/post/shu-yu-python-xin-tian-liao-yi-dian-dong-xi/">
+        </link>
+        <updated>2023-05-12T01:19:23.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="title修改其中的单词的大小写">.title（修改其中的单词的大小写）</h1>
+<pre><code>name = &quot;ada lovelace&quot; 
+print(name.title())
+</code></pre>
+<p>输出：<br>
+Ada Lovelace</p>
+<h1 id="还有其他几个很有用的大小写处理方法">还有其他几个很有用的大小写处理方法。</h1>
+<p>例如，要将字符串改为全部大写或全部小写，可以<br>
+像下面这样做：<br>
+name = &quot;Ada Lovelace&quot;<br>
+print(name.upper())<br>
+print(name.lower())<br>
+<em>这些代码的输出如下：</em><br>
+ADA LOVELACE<br>
+adalovelace<br>
+存储数据时，方法lower()很有用。很多时候，你无法依靠用户来提供正确的大小写，因此<br>
+需要将字符串先转换为小写，再存储它们。以后需要显示这些信息时，再将其转换为最合适的大<br>
+小写方式</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5月10号起的考试复习计划]]></title>
+        <id>https://linjunsilu.github.io/post/21-tian-ji-hua-kao-shi-python-xue-xi/</id>
+        <link href="https://linjunsilu.github.io/post/21-tian-ji-hua-kao-shi-python-xue-xi/">
+        </link>
+        <updated>2023-05-09T17:32:14.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="考试计划">考试计划</h1>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="考试计划">考试计划</h1>
+<!-- more -->
+<ol>
+<li>Python mooc  需要自己整理一个word文档作为期末复习</li>
+<li>机器学习 结合图书以及mooc等网课在书上笔记</li>
+<li>计算机组成根据每次上课的PPT在教材上找出相应点，做成word的复习，期末再精简</li>
+<li>C++阅读教材并勾画，把上课做过的编程题单独整理</li>
+<li>计算机通信与网络看书就好</li>
+<li>andriod跟个教程学技术，看用java还是kotlin</li>
+</ol>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电脑绘画（AI建议学习路线）]]></title>
+        <id>https://linjunsilu.github.io/post/dian-nao-hui-hua-ai-jian-yi-xue-xi-lu-xian/</id>
+        <link href="https://linjunsilu.github.io/post/dian-nao-hui-hua-ai-jian-yi-xue-xi-lu-xian/">
+        </link>
+        <updated>2023-04-28T16:14:59.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="来自你的消息">来自你的消息:</h2>
+<p>电脑绘画</p>
+<h2 id="来自chatai的消息">来自ChatAI的消息:</h2>
+<p>电脑绘画是一种利用计算机软件进行数字绘画的艺术形式。它通过专业的画图软件和绘画板等辅助设备，可以实现自由绘画、涂鸦、图像编辑等多种创作方式。</p>
+<p>电脑绘画具有很多优势，如：可以进行图像编辑和修复、可以无限次修改、制作出的作品可以直接传输给他人、可以制作矢量图等。同时，它也有一些挑战，如绘画时需要依赖数码设备、不同的软件和设备之间的兼容性问题等。</p>
+<p>在电脑上进行绘画需要学习一定的计算机基础知识以及相关绘画软件的使用方法，常见的绘画软件有Adobe Photoshop、Corel Painter等。对于创作者来说，电脑绘画为他们提供了更多的创作空间和手段，可以为艺术家们带来更多的灵感和可能性。</p>
+<h2 id="来自你的消息-2">来自你的消息:</h2>
+<p>想学，指一条学习路线</p>
+<h2 id="来自chatai的消息-2">来自ChatAI的消息:</h2>
+<p>如果您想学习电脑绘画，以下是一条可能的学习路线：</p>
+<ol>
+<li>
+<p>学习基础绘画知识：学习基础的绘画理论和技巧，包括线条、色彩、光影等。</p>
+</li>
+<li>
+<p>熟悉相关软件：选择一款绘画软件（如Adobe Photoshop或Corel Painter），学习相关的知识和技巧，如如何使用画笔、图层、色彩调整等。</p>
+</li>
+<li>
+<p>学习绘画风格：选择一个或多个自己感兴趣的绘画风格，并进行学习和实践。常见的绘画风格包括写实艺术、卡通风格、漫画风格等。</p>
+</li>
+<li>
+<p>不断练习：通过不断的练习提高自己的技巧水平，并挑战自己尝试新的创作方式和绘画风格。</p>
+</li>
+<li>
+<p>参加绘画社群：参加线上或线下绘画社群，与其他绘画者互相交流和学习，获取更多的灵感和吸引。</p>
+</li>
+</ol>
+<p>总之，绘画需要不断的练习和探索，希望以上的学习路线能给您提供一些帮助。</p>
+<h2 id="来自你的消息-3">来自你的消息:</h2>
+<p>推荐视频教程给我</p>
+<h2 id="来自chatai的消息-3">来自ChatAI的消息:</h2>
+<p>以下是一些针对电脑绘画的视频教程，您可以根据自己的需求和兴趣选择适合自己的：</p>
+<ol>
+<li>
+<p>针对初学者的视频教程《Photoshop入门教程》：https://www.bilibili.com/video/BV1Mx411s7WG</p>
+</li>
+<li>
+<p>针对写实绘画的视频教程《Photoshop写实绘画教程》：https://www.bilibili.com/video/BV1Fx411M7c7</p>
+</li>
+<li>
+<p>针对卡通风格的视频教程《Corel Painter卡通人物教程》：https://www.bilibili.com/video/BV1U7411J7aH</p>
+</li>
+<li>
+<p>针对动漫风格的视频教程《涂鸦派Pro教程》：https://www.bilibili.com/video/BV18x411y7FF</p>
+</li>
+<li>
+<p>针对数字艺术的视频教程《数字艺术创建与实践》：https://www.bilibili.com/video/BV1pE411x7uJ</p>
+</li>
+</ol>
+<p>希望这些视频教程可以对您有所帮助，祝您学习愉快。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我与AI对话（机器学习）]]></title>
+        <id>https://linjunsilu.github.io/post/wo-yu-ai-dui-hua-ji-qi-xue-xi/</id>
+        <link href="https://linjunsilu.github.io/post/wo-yu-ai-dui-hua-ji-qi-xue-xi/">
+        </link>
+        <updated>2023-04-24T02:48:10.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="来自你的消息">来自你的消息:</h2>
+<p>机器学习怎么学</p>
+<h2 id="来自chatai的消息">来自ChatAI的消息:</h2>
+<p>学习机器学习需要掌握以下技能和知识：</p>
+<ol>
+<li>
+<p>编程语言：机器学习使用的编程语言有Python、R、Java等，掌握其中一种编程语言是学习机器学习的必要条件。</p>
+</li>
+<li>
+<p>数学基础：机器学习中需要用到线性代数、概率论、统计学等数学知识，能熟练掌握这些基础知识可以帮助理解机器学习算法的原理。</p>
+</li>
+<li>
+<p>数据分析能力：数据分析能力是机器学习的重要环节，需要能够使用各种数据分析工具和技术，如数据挖掘、数据清洗、数据可视化等。</p>
+</li>
+<li>
+<p>机器学习算法：机器学习领域有很多算法，需要了解不同的算法类型和应用场景，如监督学习、无监督学习、半监督学习等。</p>
+</li>
+<li>
+<p>实践经验：机器学习需要大量的实践经验，通过做项目和参加比赛可以加深对机器学习的理解和掌握。</p>
+</li>
+</ol>
+<p>总之，学习机器学习需要多方面的知识和技能，需要不断地学习和实践。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[操作系统总概]]></title>
+        <id>https://linjunsilu.github.io/post/cao-zuo-xi-tong-zong-gai/</id>
+        <link href="https://linjunsilu.github.io/post/cao-zuo-xi-tong-zong-gai/">
+        </link>
+        <updated>2023-02-04T08:03:43.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="操作系统概念">操作系统概念</h1>
+<ol>
+<li>操作系统的地位和作用</li>
+<li>操作系统的定义</li>
+<li>操作的功能</li>
+<li>操作系统的特性</li>
+<li>操作系统的性能</li>
+</ol>
+<h2 id="地位">地位</h2>
+<ol>
+<li>计算机系统由硬件和软件构成</li>
+<li>OS是硬件之上的第一层软件</li>
+<li>OS是其他软件和硬件之间的接口</li>
+</ol>
+<p><strong>计算机的系统层次结构</strong><br>
+<img src="https://linjunsilu.github.io/post-images/1675498335422.png" alt="" loading="lazy"></p>
+<h2 id="作用">作用</h2>
+<p>从一般用户观点<br>
+把操作系统看作是用户与计算机硬件系统之间的接口<br>
+从资源管理观点<br>
+把操作系统视为计算机系统资源的管理者</p>
+<h2 id="操作系统的设计目标">操作系统的设计目标</h2>
+<p><em>1. 方便性</em><br>
+操作系统为用户提供友好的用户接口，用户输入命令，操作系统按命令控制程序的执行。<br>
+用户可以在程序中调用操作系统的功能模块完成相应任务，而不必了解硬件的物理特性<br>
+<em>2. 有效性</em><br>
+有效地管理和分配硬件、软件资源，合理地组织计算机的工作流程，提高系统工作效率<br>
+<em>3. 可扩充性</em><br>
+可以满足计算机硬件与体系结构的发展以及应用不断扩大的要求，能方便地扩展新的功能。<br>
+<em>4. 开放性</em><br>
+开发性知道是产品和技术之间相互连接和协作的能力。无论是硬件还是软件，开放性接口都已作为一种明确、实际的行业标准广泛应用在公开发行的文档中</p>
+<h2 id="操作系统的定义">操作系统的定义</h2>
+<p>操作系统是计算机系统中的最基本的一种系统软件，是一些程序模块的集合。</p>
+<h2 id="操作系统的功能">操作系统的功能</h2>
+<p>操作系统是计算机系统的资源管理者。<br>
+<strong>资源</strong><br>
+在计算机系统中，能分配给用户使用的各种硬件和软件设施总称为资源。</p>
+<p><strong>资源类型</strong><br>
+<em>硬件资源</em>  处理器、存储器、I/O设备；<br>
+<em>信息资源</em>  程序、文件和数据。</p>
+<p><strong>资源管理的目的</strong></p>
+<ul>
+<li>实现资源共享</li>
+<li>提高资源利用率</li>
+</ul>
+<p><strong>资源管理的观点</strong><br>
+<em>记录资源的使用情况</em></p>
+<ul>
+<li>资源空闲</li>
+<li>好坏与否</li>
+<li>被谁使用</li>
+<li>使用多长时间<br>
+······<br>
+<strong>合理的分配资源</strong><br>
+静态分配策略<br>
+（在程序运行前分配，但效率不高）<br>
+动态分配策略<br>
+（在程序运行过程中何时用资源，何时分配。<br>
+其缺点是会出现死锁）<br>
+<strong>具体完成分配</strong><br>
+<strong>回收资源</strong></li>
+</ul>
+<p><strong>操作系统主要功能整理</strong></p>
+<ol>
+<li>处理机管理</li>
+<li>文件管理</li>
+<li>存储管理</li>
+<li>网络管理</li>
+<li>设备管理</li>
+<li>用户接口</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java的基本数据类型]]></title>
+        <id>https://linjunsilu.github.io/post/java-de-ji-ben-shu-ju-lei-xing/</id>
+        <link href="https://linjunsilu.github.io/post/java-de-ji-ben-shu-ju-lei-xing/">
+        </link>
+        <updated>2023-01-22T05:40:37.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="标识符">标识符</h1>
+<p>用来标识<strong>类名、变量名、方法名、类型名、数组名、文件名</strong>的有效字符序列称为标识符。<br>
+简而言之，标识符就是一个<strong>名字</strong>。</p>
+<h2 id="标识符的语法规则">标识符的语法规则</h2>
+<ol>
+<li>标识符由<em>字母、下划线、美元符号、数字组成，长度不受限制</em></li>
+<li>标识符的<strong>第一个</strong>字符不能是<strong>数字字符</strong></li>
+<li>标识符不能为<em>关键字</em></li>
+<li>标识符不能是<strong>true、false</strong>和<strong>null</strong></li>
+</ol>
+<h1 id="关键字50">关键字（50）</h1>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">abstract</th>
+<th style="text-align:center">assert</th>
+<th style="text-align:right">boolean</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">break</td>
+<td style="text-align:center">byte</td>
+<td style="text-align:right">case</td>
+</tr>
+<tr>
+<td style="text-align:left">catch</td>
+<td style="text-align:center">char</td>
+<td style="text-align:right">class</td>
+</tr>
+<tr>
+<td style="text-align:left">const</td>
+<td style="text-align:center">continue</td>
+<td style="text-align:right">default</td>
+</tr>
+<tr>
+<td style="text-align:left">do</td>
+<td style="text-align:center">double</td>
+<td style="text-align:right">else</td>
+</tr>
+<tr>
+<td style="text-align:left">enum</td>
+<td style="text-align:center">extends</td>
+<td style="text-align:right">final</td>
+</tr>
+<tr>
+<td style="text-align:left">finally</td>
+<td style="text-align:center">float</td>
+<td style="text-align:right">for</td>
+</tr>
+<tr>
+<td style="text-align:left">goto</td>
+<td style="text-align:center">if</td>
+<td style="text-align:right">implements</td>
+</tr>
+<tr>
+<td style="text-align:left">import</td>
+<td style="text-align:center">instanceof</td>
+<td style="text-align:right">int</td>
+</tr>
+<tr>
+<td style="text-align:left">interface</td>
+<td style="text-align:center">long</td>
+<td style="text-align:right">native</td>
+</tr>
+<tr>
+<td style="text-align:left">new</td>
+<td style="text-align:center">package</td>
+<td style="text-align:right">private</td>
+</tr>
+<tr>
+<td style="text-align:left">protected</td>
+<td style="text-align:center">public</td>
+<td style="text-align:right">return</td>
+</tr>
+<tr>
+<td style="text-align:left">short</td>
+<td style="text-align:center">static</td>
+<td style="text-align:right">stricyfp</td>
+</tr>
+<tr>
+<td style="text-align:left">super</td>
+<td style="text-align:center">switch</td>
+<td style="text-align:right">synchronized</td>
+</tr>
+<tr>
+<td style="text-align:left">this</td>
+<td style="text-align:center">throw</td>
+<td style="text-align:right">throws</td>
+</tr>
+<tr>
+<td style="text-align:left">transient</td>
+<td style="text-align:center">try</td>
+<td style="text-align:right">void</td>
+</tr>
+<tr>
+<td style="text-align:left">volatile</td>
+<td style="text-align:center">while</td>
+<td style="text-align:right"></td>
+</tr>
+</tbody>
+</table>
+<h1 id="数据类型">数据类型</h1>
+<ul>
+<li>逻辑类型：boolean</li>
+<li>整数类型：byte、short、int、long</li>
+<li>字符类型：char</li>
+<li></li>
+</ul>
+]]></content>
+    </entry>
+</feed>
